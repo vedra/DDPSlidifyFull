@@ -3925,6 +3925,8 @@ ggplot(data = galton, aes(x=parent,y=child))             +
 
 - Available at: http://vedra.shinyapps.io/PAshiny/ 
 
+- App source code: https://github.com/vedra/ShinyApp
+
 
 ---
 
