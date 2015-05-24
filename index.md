@@ -3925,11 +3925,12 @@ ggplot(data = galton, aes(x=parent,y=child))             +
 
 - Available at: http://vedra.shinyapps.io/PAshiny/ 
 
+- App source code: https://github.com/vedra/ShinyApp
 
----
+
+--- 
 
 ### REFERENCES:
-
 
 - Materials on LM prediction, Shiny, Slidify etc: www.coursera.com
 
